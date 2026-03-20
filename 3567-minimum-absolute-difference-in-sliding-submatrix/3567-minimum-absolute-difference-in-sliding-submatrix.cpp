@@ -6,23 +6,22 @@ public:
         for(int i = 0; i <= n - k; i++)
         {
             int m = grid[i].size();
-            vector<int> arr;
             for(int j = 0; j <= m - k; j++)
             {
-                set<int> st;
+                vector<int> arr;
                 for(int l = 0; l < k; l++)
                     for(int m = 0; m < k; m++)
-                        st.insert(grid[l+i][m+j]);
-                int last = *st.begin();
-                int mn = INT_MAX;
-                st.erase(st.begin());
-                for(auto i : st)
+                        arr.push_back(grid[l+i][m+j]);
+                sort(arr.begin(), arr.end());
+                arr.erase(unique(arr.begin(), arr.end()), arr.end());
+                if(arr.size() == 1)
                 {
-                    mn = min(mn, abs(last-i));
-                    last = i;
+                    ans[i].push_back(0);
+                    continue;
                 }
-                if(mn == INT_MAX)
-                    mn = 0;
+                int mn = INT_MAX;
+                for(int l = 1; l < arr.size(); l++)
+                    mn = min(mn, abs(arr[l]-arr[l-1]));
                 ans[i].push_back(mn);
             }
         }
