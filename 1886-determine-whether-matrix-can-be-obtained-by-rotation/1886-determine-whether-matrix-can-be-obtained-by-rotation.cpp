@@ -1,13 +1,11 @@
 class Solution {
 public:
     bool findRotation(vector<vector<int>>& mat, vector<vector<int>>& target) {
-        if(mat == target) return true;
         int n = mat.size();
         for(int i = 0; i < 4; i++)
         {
+            if(mat == target) return true;
             rotate(mat, n);
-            if(mat == target)
-                return true;
         }
         return false;
     }
