@@ -2,32 +2,36 @@ class Solution {
 public:
     bool canPartitionGrid(vector<vector<int>>& arr) {
         int n = arr.size(), m = arr[0].size();
-        vector<vector<long long>> prefix(n, vector<long long>(m, 0));
-        for (int i = 0; i < n; i++)
-        for (int j = 0; j < m; j++) {
-            prefix[i][j] = arr[i][j];
-            if (i > 0)
-                prefix[i][j] += prefix[i - 1][j];
-            if (j > 0)
-                prefix[i][j] += prefix[i][j - 1];
-            if (i > 0 && j > 0)
-                prefix[i][j] -= prefix[i - 1][j - 1];
+
+        vector<long long> row(n, 0), col(m, 0);
+        long long total = 0;
+
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                row[i] += arr[i][j];
+                col[j] += arr[i][j];
+                total += arr[i][j];
+            }
         }
-        
-        for(int j = 0; j < m-1; j++)
-        {
-            long long sum = prefix[n-1][m-1] - prefix[n-1][j];
-            cout<<prefix[n-1][j]<<' '<<sum<<endl;
-            if(prefix[n-1][j] == sum)
+
+        long long cur = 0;
+
+        // horizontal cuts
+        for (int i = 0; i < n - 1; i++) {
+            cur += row[i];
+            if (cur == total - cur)
                 return true;
         }
-        for(int i = 0; i < n-1; i++)
-        {
-            long long sum = prefix[n-1][m-1] - prefix[i][m-1];
-            cout<<prefix[i][m-1]<<' '<<sum<<endl;
-            if(prefix[i][m-1] == sum)
+
+        cur = 0;
+
+        // vertical cuts
+        for (int j = 0; j < m - 1; j++) {
+            cur += col[j];
+            if (cur == total - cur)
                 return true;
         }
+
         return false;
     }
 };
