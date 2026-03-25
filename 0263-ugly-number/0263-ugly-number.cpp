@@ -1,18 +1,9 @@
 class Solution {
 public:
     bool isUgly(int n) {
-        int i = 2;
-        while(i <= n)
-        {
-            if(i > 5)
-                return false;
-            while(n % i == 0)
-            {
-                n/=i;
-            }
-            i++;
-        cout<<n<<endl;
-        }
-        return n != 1 ? false : true;
+        while(n % 2 == 0) n>>=1;
+        while(n % 3 == 0) n/=3;
+        while(n % 5 == 0) n/=5;
+        return n == 1;
     }
 };
