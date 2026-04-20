@@ -7,31 +7,17 @@ public:
         string ans = "";
         for(int i = 0; i < n; i ++)
         {
-            if(mp[s[i]] > 1)
+            int l = i-1, r = i+1;
+            while(r < n && s[r] == s[i])r++;
+            while(l >= 0 && s[l] == s[i])l--;
+            while(l >= 0 && r < n && s[l] == s[r])
+                l--, r++;
+            if(mx < r - l + 1)
             {
-                string m = "";
-                m+=s[i];
-                int j = i+1;
-                for(int k = 0; k < mp[s[i]]-1; k++)
-                {
-                    while(j < n && s[j] != s[i]) m+=s[j++];
-                    if(j < n)
-                        m+=s[j++];
-                    if(is_palindrom(m))
-                    {
-                        if(mx < m.size())
-                        {
-                            mx = m.size();
-                            ans = m;
-                        }
-                    }
-                }
-                
+                mx = r - l + 1;
+                ans = s.substr(l + 1, mx-2);
             }
-            mp[s[i]]--;
         }
-        if(!ans.size())
-            ans.push_back(s[0]);
         return ans;
     }
     bool is_palindrom(string s)
