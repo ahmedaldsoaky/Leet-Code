@@ -15,6 +15,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -24,4 +25,12 @@ This repository reflects my journey in improving problem-solving skills and prep
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
