@@ -10,6 +10,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -19,4 +20,8 @@ This repository reflects my journey in improving problem-solving skills and prep
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3783-mirror-distance-of-an-integer](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 <!---LeetCode Topics End-->
