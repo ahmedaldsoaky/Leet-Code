@@ -10,6 +10,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1929-concatenation-of-array](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1929-concatenation-of-array/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 ## String
@@ -38,4 +39,8 @@ This repository reflects my journey in improving problem-solving skills and prep
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2833-furthest-point-from-origin](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/2833-furthest-point-from-origin/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
