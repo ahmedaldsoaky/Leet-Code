@@ -11,6 +11,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 | ------- | ------- |
 | [0485-max-consecutive-ones](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1470-shuffle-the-array](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1470-shuffle-the-array/) | Easy |
+| [1559-detect-cycles-in-2d-grid](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1929-concatenation-of-array](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1929-concatenation-of-array/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -45,4 +46,20 @@ This repository reflects my journey in improving problem-solving skills and prep
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1929-concatenation-of-array/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 <!---LeetCode Topics End-->
