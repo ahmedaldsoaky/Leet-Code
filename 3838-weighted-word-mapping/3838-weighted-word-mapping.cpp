@@ -2,9 +2,6 @@ class Solution {
 public:
     string mapWordWeights(vector<string>& words, vector<int>& weights) {
         string res = "";
-        int freq[26] = {};
-        for(int i = 0; i < 26; i++)
-            freq[i] = weights[i];
         for(int i = 0; i < words.size(); i++)
         {
             int sum = 0;
