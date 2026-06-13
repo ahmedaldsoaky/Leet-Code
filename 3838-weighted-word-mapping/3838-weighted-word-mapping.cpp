@@ -7,10 +7,7 @@ public:
             int sum = 0;
             for(int j = 0; j < words[i].size(); j++)
                 sum += weights[words[i][j] - 'a'];
-            cout<<sum<<' ';
-            sum%=26;
-            cout<<sum<<endl;
-            res+=('z' - sum);
+            res+= 'z' - (sum%26);
         }
         return res;
     }
