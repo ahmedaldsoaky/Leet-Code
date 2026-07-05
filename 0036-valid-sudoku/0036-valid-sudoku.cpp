@@ -1,40 +1,29 @@
 class Solution {
 public:
     bool isValidSudoku(vector<vector<char>>& board) {
-        return check1(board) && check2(board) && check3(board);
+        return check1(board) && check3(board);
     }
 
     bool check1(vector<vector<char>>& board)
     {
         for(int i = 0; i < board.size(); i++)
         {
-            int freq[10] = {};
+            int freq1[10] = {}, freq[10] = {};
             for(int j = 0; j < board[i].size(); j++)
             {
-                char c = board[i][j];
-                if(c == '.') continue;
-                // cout<<c<<' ';
-                freq[c - '0']++;
-                if(freq[c - '0'] > 1) return false;
-            }
-            // cout<<endl;
-        }
-        return true;
-    }
-    bool check2(vector<vector<char>>& board)
-    {
-        for(int i = 0; i < board.size(); i++)
-        {
-            int freq[10] = {0};
-            for(int j = 0; j < board[i].size(); j++)
-            {
+                char c1 = board[i][j];
+                if(c1 != '.'){
+                    // cout<<c<<' ';
+                    freq1[c1 - '0']++;
+                    if(freq1[c1 - '0'] > 1) return false;
+                }
+
                 char c = board[j][i];
                 if(c == '.') continue;
                 cout<<c<<' ';
                 freq[c - '0']++;
                 if(freq[c - '0'] > 1) return false;
             }
-            cout<<endl;
         }
         return true;
     }
