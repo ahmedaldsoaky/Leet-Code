@@ -12,6 +12,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 | [0036-valid-sudoku](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0036-valid-sudoku/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0217-contains-duplicate/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1470-shuffle-the-array](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1470-shuffle-the-array/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -50,6 +51,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -93,9 +95,27 @@ This repository reflects my journey in improving problem-solving skills and prep
 | [0128-longest-consecutive-sequence](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
