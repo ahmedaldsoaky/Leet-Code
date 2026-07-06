@@ -1,20 +1,22 @@
 class Solution {
 public:
     int removeCoveredIntervals(vector<vector<int>>& arr) {
-        int n = arr.size();
-        vector<bool> ok(n, 1);
-        for(int i = 0; i < n; i++)
+        ranges::sort(arr, {}, [](auto& x) {
+            return pair{x[0], -x[1]};
+        });
+        //  == 
+        // sort(arr.begin(), arr.end(),
+        // [](const auto& a, const auto& b)
+        // {
+        //     return pair{a[0], -a[1]} < pair{b[0], -b[1]};
+        // });
+
+        int res = 0, r = 0;
+        for(auto& a : arr)
         {
-            for(int j = 0; j < n; j++)
-            {
-                if(i == j)continue;
-                if(arr[i][0] >= arr[j][0] && arr[i][1] <= arr[j][1])
-                {
-                    ok[i] = 0;
-                    break;
-                }
-            }
+            res += a[1] > r;
+            r = max(r, a[1]);
         }
-        return count(ok.begin(), ok.end(), true);
+        return res;
     }
 };
