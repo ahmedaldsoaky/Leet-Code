@@ -1,15 +1,11 @@
 class Solution {
 public:
     long long sumAndMultiply(int n) {
-        long long x = 0, y = 1, sum = 0;
-        while(n)
-        {
-            if(n%10)
-                x += (n%10) * y, y*=10;
-            sum+=n%10;
-            n/=10;
-        }
-        cout<<x<<endl;
+        long long x = 0, sum = 0;
+        string s = to_string(n);
+        for(auto& c : s)
+            if(c != '0')
+                x = x * 10 + (c-'0'), sum += c-'0';
         return sum * x;
     }
 };
