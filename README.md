@@ -27,6 +27,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0125-valid-palindrome](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0242-valid-anagram/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -44,6 +45,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0125-valid-palindrome](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0125-valid-palindrome/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
