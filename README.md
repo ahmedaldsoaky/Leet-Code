@@ -36,6 +36,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
