@@ -11,12 +11,11 @@ public:
             int l = i+1, r = n-1;
             while(l < r)
             {
-                if(l == i || r == i)continue;
                 int sum = arr[l] + arr[r];
                 if(sum == -t)
                 {
                     vector<int> a = {arr[l], arr[r], t};
-                    sort(a.begin(), a.end());
+                    // sort(a.begin(), a.end());
                     st.insert(a);
                     l++, r--;
                 }
