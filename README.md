@@ -14,6 +14,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 | [0128-longest-consecutive-sequence](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -132,4 +133,8 @@ This repository reflects my journey in improving problem-solving skills and prep
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
