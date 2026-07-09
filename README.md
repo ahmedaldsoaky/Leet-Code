@@ -9,6 +9,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0015-3sum/) | Medium |
 | [0036-valid-sudoku](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0036-valid-sudoku/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -44,11 +45,13 @@ This repository reflects my journey in improving problem-solving skills and prep
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0011-container-with-most-water/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0011-container-with-most-water](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0015-3sum/) | Medium |
 | [0125-valid-palindrome](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
