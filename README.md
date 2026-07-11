@@ -12,6 +12,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 | [0011-container-with-most-water](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0015-3sum/) | Medium |
 | [0036-valid-sudoku](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0036-valid-sudoku/) | Medium |
+| [0042-trapping-rain-water](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0042-trapping-rain-water/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0217-contains-duplicate/) | Easy |
@@ -53,6 +54,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 | [0005-longest-palindromic-substring](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0015-3sum/) | Medium |
+| [0042-trapping-rain-water](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -60,6 +62,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0042-trapping-rain-water](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0042-trapping-rain-water/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,6 +102,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0042-trapping-rain-water/) | Hard |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -140,4 +144,8 @@ This repository reflects my journey in improving problem-solving skills and prep
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0238-product-of-array-except-self/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
