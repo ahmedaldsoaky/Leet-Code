@@ -13,6 +13,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 | [0015-3sum](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0015-3sum/) | Medium |
 | [0036-valid-sudoku](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0036-valid-sudoku/) | Medium |
 | [0042-trapping-rain-water](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0042-trapping-rain-water/) | Hard |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0217-contains-duplicate/) | Easy |
@@ -63,6 +64,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0042-trapping-rain-water/) | Hard |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
