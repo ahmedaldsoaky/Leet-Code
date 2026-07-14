@@ -9,12 +9,9 @@ public:
             int x = 0;
             while(r < n)
             {
-                if(s[r] != c) x++;
+                if(s[r] != c) ++x;
                 while(l < r && x > k)
-                {
-                    if(s[l] != c)x--;
-                    l++;
-                }
+                    if(s[l++] != c)x--;
                 mx = max(mx, ++r - l);
             }
         }
