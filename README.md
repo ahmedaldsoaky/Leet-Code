@@ -36,6 +36,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 | [0005-longest-palindromic-substring](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0125-valid-palindrome](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0242-valid-anagram/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -116,6 +117,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 | [0217-contains-duplicate](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,4 +158,5 @@ This repository reflects my journey in improving problem-solving skills and prep
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 <!---LeetCode Topics End-->
