@@ -45,6 +45,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Greedy
@@ -163,4 +164,8 @@ This repository reflects my journey in improving problem-solving skills and prep
 | [0003-longest-substring-without-repeating-characters](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0567-permutation-in-string/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
