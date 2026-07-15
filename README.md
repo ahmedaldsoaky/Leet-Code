@@ -37,6 +37,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 | [0125-valid-palindrome](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0567-permutation-in-string/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -60,6 +61,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 | [0042-trapping-rain-water](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0567-permutation-in-string](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0567-permutation-in-string/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -118,6 +120,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 | [0242-valid-anagram](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0567-permutation-in-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,4 +162,5 @@ This repository reflects my journey in improving problem-solving skills and prep
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0567-permutation-in-string/) | Medium |
 <!---LeetCode Topics End-->
