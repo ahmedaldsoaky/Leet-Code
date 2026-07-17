@@ -29,6 +29,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
@@ -48,6 +49,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
@@ -80,6 +82,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +132,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 | [0347-top-k-frequent-elements](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0567-permutation-in-string/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,10 +163,12 @@ This repository reflects my journey in improving problem-solving skills and prep
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0238-product-of-array-except-self/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -178,6 +184,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Queue
@@ -188,4 +195,8 @@ This repository reflects my journey in improving problem-solving skills and prep
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0239-sliding-window-maximum/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 <!---LeetCode Topics End-->
