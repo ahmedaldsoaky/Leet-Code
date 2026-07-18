@@ -26,6 +26,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 | [1559-detect-cycles-in-2d-grid](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1929-concatenation-of-array](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1929-concatenation-of-array/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -49,6 +50,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -186,6 +188,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
