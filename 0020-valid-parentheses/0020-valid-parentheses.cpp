@@ -4,22 +4,22 @@ public:
         string cls = "])}";
         string opn = "{[(";
 
-        stack<char> st;
+        string st;
         for(char& c : s)
         {
             if(st.empty() && cls.contains(c))
                 return false;
             if(opn.contains(c))
-                st.push(c);
+                st+=c;
             else
             {
-                if( (st.top() == '(') && (c == ')') )  st.pop();
-                else if( st.top() == '[' && c == ']' ) st.pop();
-                else if( st.top() == '{' && c == '}' ) st.pop();
+                if( (st.back() == '(') && (c == ')') )  st.pop_back();
+                else if( st.back() == '[' && c == ']' ) st.pop_back();
+                else if( st.back() == '{' && c == '}' ) st.pop_back();
                 else return false;
             }
             if(!st.empty())
-                cout<<st.top()<<endl;
+                cout<<st.back()<<endl;
         }
         return st.empty();
     }
