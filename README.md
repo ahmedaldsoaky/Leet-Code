@@ -123,6 +123,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0042-trapping-rain-water/) | Hard |
+| [0155-min-stack](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0155-min-stack/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -204,4 +205,8 @@ This repository reflects my journey in improving problem-solving skills and prep
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
