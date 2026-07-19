@@ -1,28 +1,26 @@
 class MinStack {
-    vector<int> v;
-    vector<int> mn;
+    stack<pair<int, int>> st;
 public:
     MinStack() {
     }
     
     void push(int value) {
-        v.push_back(value);
-        if(mn.empty() || value <= mn.back())
-            mn.push_back(value);
+        if(st.empty())
+            st.push({value, value});
+        else
+            st.push({value, min(value, st.top().second)});
     }
     
     void pop() {
-        int n = v.back();
-        v.pop_back();
-        if(n == mn.back()) mn.pop_back();
+        st.pop();
     }
     
     int top() {
-        return v.back();
+        return st.top().first;
     }
     
     int getMin() {
-        return mn.back();
+        return st.top().second;
     }
 };
 
