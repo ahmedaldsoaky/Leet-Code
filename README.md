@@ -23,6 +23,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 | [0239-sliding-window-maximum](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0704-binary-search](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0704-binary-search/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1470-shuffle-the-array](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1470-shuffle-the-array/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -175,6 +176,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0704-binary-search](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0704-binary-search/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
