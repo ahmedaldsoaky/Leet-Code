@@ -50,6 +50,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 | [0567-permutation-in-string](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0567-permutation-in-string/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -195,6 +196,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 | [0239-sliding-window-maximum](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0567-permutation-in-string/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
