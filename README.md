@@ -25,6 +25,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 | [0485-max-consecutive-ones](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0704-binary-search/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1390-four-divisors](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1390-four-divisors/) | Medium |
 | [1470-shuffle-the-array](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1470-shuffle-the-array/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -57,6 +58,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [1390-four-divisors](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1390-four-divisors/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -226,4 +228,12 @@ This repository reflects my journey in improving problem-solving skills and prep
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0022-generate-parentheses/) | Medium |
+## Prime Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1390-four-divisors](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1390-four-divisors/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1390-four-divisors](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1390-four-divisors/) | Medium |
 <!---LeetCode Topics End-->
