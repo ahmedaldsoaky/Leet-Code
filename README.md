@@ -64,6 +64,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 | [3312-sorted-gcd-pair-queries](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -72,6 +73,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0011-container-with-most-water/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
