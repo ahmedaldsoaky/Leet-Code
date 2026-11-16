@@ -27,6 +27,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 | [1288-remove-covered-intervals](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1390-four-divisors](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1390-four-divisors/) | Medium |
 | [1470-shuffle-the-array](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1470-shuffle-the-array/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1929-concatenation-of-array](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1929-concatenation-of-array/) | Easy |
@@ -59,6 +60,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [1390-four-divisors](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1390-four-divisors/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -94,6 +96,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 | [0022-generate-parentheses](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0042-trapping-rain-water/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -189,6 +192,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0238-product-of-array-except-self/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
