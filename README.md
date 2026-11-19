@@ -34,6 +34,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -77,6 +78,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0011-container-with-most-water/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -167,6 +169,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 | [0242-valid-anagram](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1288-remove-covered-intervals/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
