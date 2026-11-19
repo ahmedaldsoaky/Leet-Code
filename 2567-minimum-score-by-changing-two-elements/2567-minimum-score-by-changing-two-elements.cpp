@@ -2,7 +2,14 @@ class Solution {
 public:
     int minimizeSum(vector<int>& nums) {
         if(nums.size() < 4) return 0;
-        return min({ch1(nums), ch2(nums), ch3(nums), ch3(nums)});
+        sort(nums.begin(), nums.end());
+        int n = nums.size();
+        return min({
+            nums[n-3] - nums[0],
+            nums[n-2] - nums[1],
+            nums[n-1] - nums[2]
+        });
+        // return min({ch1(nums), ch2(nums), ch3(nums), ch3(nums)});
     }
     int ch1(vector<int> nums)
     {
