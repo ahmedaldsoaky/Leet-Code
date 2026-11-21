@@ -23,6 +23,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 | [0239-sliding-window-maximum](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0690-employee-importance](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0690-employee-importance/) | Medium |
 | [0704-binary-search](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0704-binary-search/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1390-four-divisors](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1390-four-divisors/) | Medium |
@@ -117,10 +118,12 @@ This repository reflects my journey in improving problem-solving skills and prep
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0690-employee-importance](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0690-employee-importance/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0690-employee-importance](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0690-employee-importance/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -160,6 +163,7 @@ This repository reflects my journey in improving problem-solving skills and prep
 | [0347-top-k-frequent-elements](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0567-permutation-in-string/) | Medium |
+| [0690-employee-importance](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0690-employee-importance/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -248,4 +252,8 @@ This repository reflects my journey in improving problem-solving skills and prep
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1390-four-divisors](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/1390-four-divisors/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0690-employee-importance](https://github.com/ahmedaldsoaky/Leet-Code/tree/main/0690-employee-importance/) | Medium |
 <!---LeetCode Topics End-->
